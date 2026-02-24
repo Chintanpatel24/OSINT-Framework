@@ -115,6 +115,11 @@
       "name": "Email Search",
       "type": "folder",
       "children": [
+	  {
+	    "name": "user serach",
+		"type": "url",
+		"url": "https://usersearch.ai"
+	  },
       {
         "name": "Sylva Identity Discovery (T)",
         "type": "url",
