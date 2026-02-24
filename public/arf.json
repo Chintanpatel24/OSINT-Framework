@@ -10,6 +10,11 @@
       "name": "Username Search Engines",
       "type": "folder",
       "children": [
+	  {
+		"name": "discover profiles",
+		"type": "url",
+		"url": "https://discoverprofile.com"
+	  },
       {
         "name": "Sylva Identity Discovery (T)",
         "type": "url",
