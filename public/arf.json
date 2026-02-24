@@ -1625,6 +1625,11 @@
         "type": "folder",
         "children": [
 		{
+		  "name": "mambapanel",
+		  "type": "url",
+		  "url": "https://mambapanel.com"
+		},
+		{
 		  "name": "Pic2Map",
 		  "type": "url",
 		  "url": "https://www.pic2map.com"
