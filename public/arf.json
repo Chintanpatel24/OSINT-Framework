@@ -4095,6 +4095,11 @@
         "type": "url",
         "url": "https://www.google.com/?gws_rd=ssl"
       },
+	  {
+        "name": "Shodan",
+        "type": "url",
+        "url": "https://www.shodan.io"
+      },
       {
         "name": "Bing",
         "type": "url",
