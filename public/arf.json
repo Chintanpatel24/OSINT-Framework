@@ -5907,6 +5907,11 @@
       "name": "Search",
       "type": "folder",
       "children": [
+	  {
+        "name": "Virustotal",
+        "type": "url",
+        "url": "https://www.virustotal.com"
+      },
       {
         "name": "InQuest Labs DFI/MalDoc Search",
         "type": "url",
