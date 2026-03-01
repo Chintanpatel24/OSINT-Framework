@@ -3470,6 +3470,11 @@
       "name": "General Info & News",
       "type": "folder",
       "children": [
+	  {
+        "name": "World monitor",
+        "type": "url",
+        "url": "https://worldmonitor.app"
+      },
       {
         "name": "Businessweek Search",
         "type": "url",
