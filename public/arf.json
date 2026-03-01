@@ -4425,6 +4425,11 @@
       "name": "News Search",
       "type": "folder",
       "children": [
+	  {
+        "name": "Happy monitor",
+        "type": "url",
+        "url": "https://happy.worldmonitor.app"
+      },
       {
         "name": "Paperboy Online Newspapers",
         "type": "url",
