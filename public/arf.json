@@ -3280,6 +3280,11 @@
       "name": "Financial / Tax Resources",
       "type": "folder",
       "children": [
+	  {
+        "name": "World monitor",
+        "type": "url",
+        "url": "https://finance.worldmonitor.app"
+      },
       {
         "name": "BIN Base",
         "type": "url",
