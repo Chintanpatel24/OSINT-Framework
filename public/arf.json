@@ -5295,6 +5295,11 @@
         "type": "url",
         "url": "http://thehiddenwiki.org/"
       },
+	  {
+        "name": "darkwebmarket",
+        "type": "url",
+        "url": "https://darkwebmarket.net"
+      },
       {
         "name": "Core.onion",
         "type": "url",
