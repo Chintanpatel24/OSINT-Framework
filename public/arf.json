@@ -2670,7 +2670,12 @@
         "type": "url",
         "url": "http://www.familytreenow.com/"
       },
-        {
+	  {
+        "name": "discoverprofile",
+        "type": "url",
+        "url": "https://discoverprofile.com"
+      },
+      {
         "name": "InfoFlow Public People Search In Chilean",
         "type": "url",
         "url": "https://infoflow.cloud/"
