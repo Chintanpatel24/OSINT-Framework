@@ -5310,6 +5310,11 @@
         "type": "url",
         "url": "https://onionland.io"
       },
+	  {
+        "name": "Tor links",
+        "type": "url",
+        "url": "https://tor.link"
+      },
       {
         "name": "Core.onion",
         "type": "url",
