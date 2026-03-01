@@ -5285,6 +5285,11 @@
         "type": "url",
         "url": "http://darkfailllnkf4vf.onion/"
       },
+	 {
+        "name": "onion links",
+        "type": "url",
+        "url": "https://tor.li"
+      },
       {
         "name": "Ahmia",
         "type": "url",
