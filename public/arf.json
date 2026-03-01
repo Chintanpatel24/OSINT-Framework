@@ -5874,6 +5874,11 @@
     "type": "folder",
     "children": [
     {
+      "name": "Arena ai",
+      "type": "url",
+      "url": "https://arena.ai"
+    },
+    {
       "name": "ChatGPT (R)",
       "type": "url",
       "url": "https://chatgpt.com/"
