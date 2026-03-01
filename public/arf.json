@@ -5300,6 +5300,11 @@
         "type": "url",
         "url": "https://darkwebmarket.net"
       },
+	  {
+        "name": "onionland",
+        "type": "url",
+        "url": "https://onionland.io"
+      },
       {
         "name": "Core.onion",
         "type": "url",
