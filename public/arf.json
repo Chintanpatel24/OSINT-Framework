@@ -5311,6 +5311,11 @@
         "url": "https://darkwebmarket.net"
       },
 	  {
+        "name": "onionlinks",
+        "type": "url",
+        "url": "https://onionlinks.com"
+      },
+	  {
         "name": "onionland",
         "type": "url",
         "url": "https://onionland.io"
