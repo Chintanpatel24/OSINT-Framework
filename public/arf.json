@@ -5321,6 +5321,11 @@
         "url": "https://onionland.io"
       },
 	  {
+        "name": "torhiddenwiki",
+        "type": "url",
+        "url": "https://torhiddenwiki.org"
+      },
+	  {
         "name": "Tor links",
         "type": "url",
         "url": "https://tor.link"
