@@ -5315,6 +5315,11 @@
         "type": "url",
         "url": "https://tor.link"
       },
+	  {
+        "name": "darkwebdaily",
+        "type": "url",
+        "url": "https://darkwebdaily.live"
+      },
       {
         "name": "Core.onion",
         "type": "url",
